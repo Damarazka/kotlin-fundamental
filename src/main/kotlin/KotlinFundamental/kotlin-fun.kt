@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
     val name = "Damarazka"
     var school = "IDN"
